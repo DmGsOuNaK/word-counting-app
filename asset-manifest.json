@@ -1,0 +1,15 @@
+{
+  "main.css": "/word-counting-app/static/css/main.c6f07899.chunk.css",
+  "main.js": "/word-counting-app/static/js/main.17b4bec8.chunk.js",
+  "main.js.map": "/word-counting-app/static/js/main.17b4bec8.chunk.js.map",
+  "static/js/1.8c8ed3e6.chunk.js": "/word-counting-app/static/js/1.8c8ed3e6.chunk.js",
+  "static/js/1.8c8ed3e6.chunk.js.map": "/word-counting-app/static/js/1.8c8ed3e6.chunk.js.map",
+  "static/js/2.cddc92c4.chunk.js": "/word-counting-app/static/js/2.cddc92c4.chunk.js",
+  "static/js/2.cddc92c4.chunk.js.map": "/word-counting-app/static/js/2.cddc92c4.chunk.js.map",
+  "runtime~main.js": "/word-counting-app/static/js/runtime~main.9abe96fc.js",
+  "runtime~main.js.map": "/word-counting-app/static/js/runtime~main.9abe96fc.js.map",
+  "static/css/main.c6f07899.chunk.css.map": "/word-counting-app/static/css/main.c6f07899.chunk.css.map",
+  "index.html": "/word-counting-app/index.html",
+  "precache-manifest.7ee9d1fe22166e5912a2947435416c67.js": "/word-counting-app/precache-manifest.7ee9d1fe22166e5912a2947435416c67.js",
+  "service-worker.js": "/word-counting-app/service-worker.js"
+}
